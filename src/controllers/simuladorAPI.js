@@ -29,7 +29,7 @@ export let gastos=Array(
     },
     {
         id:80,
-        categoria:"alimento",
+        categoria:"alimentos",
         valor:6000,
         fecha:"2024-09-23",
         descripcion:"Aguacate del almuerzo"
@@ -44,7 +44,7 @@ export let gastos=Array(
     },
     {
         id:67,
-        categoria:"alimento",
+        categoria:"alimentos",
         valor:2300,
         fecha:"2024-09-23",
         descripcion:"Agua"
